@@ -79,6 +79,12 @@ plot_tree(dt, feature_names=list(x.columns), filled=True)
 plt.show()
 ```
 ## Output:
+<img width="383" height="285" alt="image" src="https://github.com/user-attachments/assets/e2fb5049-bed7-4f9e-9521-e7bb2adb095d" />
+<img width="500" height="264" alt="image" src="https://github.com/user-attachments/assets/db881002-b795-485e-b89f-081bb2a3cf9c" />
+<img width="306" height="277" alt="image" src="https://github.com/user-attachments/assets/4f95cded-2cd4-48f8-acbd-fdef9f29830a" />
+<img width="219" height="106" alt="image" src="https://github.com/user-attachments/assets/d1293971-ea86-4d57-ac95-31cfb302814e" />
+<img width="1037" height="417" alt="image" src="https://github.com/user-attachments/assets/516fb44a-1800-4ad7-b6b3-1a19b2011a6b" />
+
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
